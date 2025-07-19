@@ -1,6 +1,6 @@
 
 # Bitcoin Price Prediction (Next 2 Days) July 19 to July 21
-# I done this Projject July 18
+# I done this Project July 18
 ## Project Overview
 This project predicts the **next 2 days of Bitcoin (BTC-USD) prices** using **Machine Learning (ML)** and **Deep Learning (LSTM)** models. 
 It compares multiple ML algorithms and selects the best-performing model for forecasting.
