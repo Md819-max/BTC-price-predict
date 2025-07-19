@@ -1,0 +1,20 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
